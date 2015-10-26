@@ -1,0 +1,37 @@
+{
+  "name": "printable-characters-regex",
+  "version": "0.0.0",
+  "description": "Regex for validating printable characters",
+  "license": "MIT",
+  "repository": "thejameskyle/regexp-printable-characters",
+  "author": {
+    "name": "James Kyle",
+    "email": "me@thejameskyle.com",
+    "url": "github.com/thejameskyle"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "regex",
+    "regexp",
+    "printable",
+    "characters"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.3.0",
+    "xo": "^0.10.0"
+  },
+  "xo": {
+    "ignores": [
+      "test.js"
+    ]
+  }
+}
