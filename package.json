@@ -1,6 +1,6 @@
 {
   "name": "printable-characters-regex",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Regex for validating printable characters",
   "license": "MIT",
   "repository": "thejameskyle/regexp-printable-characters",
